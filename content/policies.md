@@ -3,7 +3,7 @@ title: "Course Policies"
 markup: "mmark"
 ---
 
-This course recognizes the extraordinary circumstances that many students may be facing and have created the course policies and schedule to help reduce stress and promote effective course mastery. If you find that anything is affecting your wellbeing or academic success and you find it difficult to complete your work, please let me and your Academic Deans know as soon as possible. We are happy to work with you to make sure you succeed in STA 440. You may also find additional information regarding personal emergencies [here](https://trinity.duke.edu/undergraduate/academic-policies/personal-emergencies).
+This course recognizes the extraordinary circumstances that many students may be facing and have created the course policies and schedule to help reduce stress and promote effective course mastery. If you find that anything is affecting your wellbeing or academic success and you find it difficult to complete your work, please let me and your Academic Deans know as soon as possible. We are happy to work with you to make sure you succeed in STA 198L. You may also find additional information regarding personal emergencies [here](https://trinity.duke.edu/undergraduate/academic-policies/personal-emergencies).
 <br>
 <br>
 
@@ -26,9 +26,9 @@ To uphold the [Duke Community Standard](https://studentaffairs.duke.edu/conduct/
 
 By enrolling in this course, you have agreed to abide by and uphold the provisions of the [Duke Community Standard](https://studentaffairs.duke.edu/conduct/about-us/duke-community-standard) as well as the policies specific to this course. Cheating or plagiarism on assignments, lying about an illness or absence and other forms of academic dishonesty are a breach of trust with classmates and faculty, violate this Standard, and will not be tolerated; any violations will automatically result in a grade of 0 on the assignment, be reported to the [Office of Student Conduct](https://studentaffairs.duke.edu/conduct) for further action, and potentially a failing (F) course grade depending on the magnitude of the offense.
 
-Occasionally, datasets we are privileged to use in class are confidential and cannot be distributed more broadly or without express permission from the data-granting sponsor. Any unauthorized dissemination *or further use* of these datasets beyond this class is a violation of the Duke Community Standard. 
+Occasionally, data sets we are privileged to use in class are confidential and cannot be distributed more broadly or without express permission from the data-granting sponsor. Any unauthorized dissemination *or further use* of these data sets beyond this class is a violation of the Duke Community Standard. 
 
-**Reusing code**: You are always welcome to use online resources (e.g. StackOverflow) on your case studies. If you use code from an outside source, either directly or as inspiration, you *must explicitly cite* where you obtained the code. Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism and a violation of the Duke Community Standard. 
+**Reusing code**: You are welcome to use online resources (e.g. StackOverflow). If you use code from an outside source, either directly or as inspiration, you *must explicitly cite* where you obtained the code. Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism and a violation of the Duke Community Standard. 
 
 On individual assignments, you may not directly share code or write up with other students. On team assignments, you may not directly share code or write up with another team. Unauthorized sharing of the code or write up will be considered a violation for all students involved.
 <br> 
@@ -36,43 +36,54 @@ On individual assignments, you may not directly share code or write up with othe
 
 ### Activities & Assessments
 
-#### Group case studies
+#### Class Participation (5%)
 
-Each case study will involve two submissions by the group: an initial submission, consisting of a written report, reproducible code on the GitHub repository, and a recorded oral presentation. This first submission will receive an initial grade. After receipt of comments from the instructor and classmates, groups will have the opportunity to write a response to review and submit a revised written report with the ability to earn up to half of the missing points on that component. 
+Attendance at lectures is strongly encouraged. Graded activities during lectures will be used to encourage attendance, and these activities will comprise the course participation grade. The lowest 4 participation grades will be dropped.
 
-Groups will change throughout the semester. Individual contributions to each submission will be assessed, both by group members and by instructor assessment of the GitHub repository commit history. Team members must provide assessments in order to receive credit for an assignment as part of the group’s peer evaluation process. 
+#### Homework (15%)
 
-**Note:** An individual team member’s grade will be modified if peer evaluations indicate this is appropriate.
+Eight (8) graded homework assignments focus on understanding methods, performing data analysis, and reinforcing concepts from lecture. Feel free to discuss homework with other students -- however, all work must be your own. Homework assignments must be typed as an R Markdown document and uploaded to Gradescope and linked to a private GitHub repository prior to the due date in order to receive credit. Unlimited resubmissions are allowed until the due date. Only the final version will be graded.
 
-#### Individual peer reviews
+No late homework is accepted, but the lowest grade will be dropped automatically.
 
-For each group case study, you will be asked to formally review and assess reproducibility of two other group's assignments. This feedback will be provided to the groups and will also be assessed as part of the course. The ability to provide thoughtful, constructive feedback is critical in the workplace and is a valued skill. Peer reviewers will get feedback from the report authors regarding the helpfulness of their reviews. If you've never written a peer review before, don't worry -- you will be provided resources, guidance, and ample opportunity to practice.
+#### Labs (15%)
 
-#### Individual project 
+Six (6) graded labs focus on computing tools needed to tackle analysis of real-world data sets and may be individual or team-based. No late labs are accepted, but the lowest grade will be dropped automatically.  Unlimited resubmissions are allowed until the due date. Only the final version will be graded.
 
-Each student will complete an individual project as part of the course. The individual project should use data that have not previously been used by the student in a project, and the analysis should be *entirely the student’s own work*. Any external resources used should be clearly documented. The student may use self-identified data or a resource provided by the instructor.
+No late labs are accepted, but the lowest grade will be dropped automatically.
 
-The individual project involves multiple due dates throughout the semester, to ensure students devote the required time and energy to their effort. These interim submissions will be reviewed by both the instructional team and peers, with the goal of maximizing the quality of the final report. **Further details are available on the individual project page.**
 
-An additional resource (you can decide whether to opt in) available to you in Spring 2021 is participation in the [Duke Reader Project](https://dukereaderproject.org/). This is a great way to get help with your writing, which should lead to clearer reports and, I anticipate, higher quality work. There is no penalty for not participating; neither is there any accommodation in grading for those who do or do not participate.
+**Note:** An individual team member’s grade will be modified on these or other assignments if peer evaluations indicate this is appropriate.
+
+#### In-Class Exams (50%)
+
+Two midterms (15% each) and a final exam (20%) test understanding, analysis, and interpretation of methods. During exams, students are not permitted to communicate or collaborate with anyone regarding the exam (except the professor). 
+
+Exam dates cannot be changed, and no make-ups will be given. In the case of illness or other extenuating circumstances, contact Prof. Herring as soon as possible to make plans.
+
+### Project (15%)
+
+The final research project is an open-ended statistical analysis that answers a research question of interest using a real-world data set. The project will involve a final written analysis report as well as an oral presentation. Additional details will be provided throughout the semester.
+
+No late projects are accepted.
+
 <br> 
 <br>
 
 #### Grade Calculation
 
-The grading basis for this class is a traditional letter grade according to the standard university policy. The following table presents the contribution of each component to a student's final grade:
+The grading basis for this class is a traditional letter grade unless requested otherwise according to the standard university policy. The following table presents the contribution of each component to a student's final grade:
  
 {.table .table2 .table-condensed .table-striped .text-left}
  <span></span>     | <span></span>  
 -----------|---------------------------------
-Case study 00 (individual) | 10%
-Case study 01 (group) | 15%
-Case study 02 (group) | 15%
-Case study 03 (group) | 15%
-Individual peer reviews | 20%
-Individual project | 25%
-
-Additionally, individual extra credit up to 3% of the semester grade will be available, with one individual opportunity granted for each of the three group case studies.
+Participation (individual) | 5%
+Homework (group) | 15%
+Labs | 15%
+Project | 15%
+Exam 1 | 15%
+Exam 2 | 15%
+Final Exam | 20%
 
 A letter grade will be assigned as follows:  
  
@@ -92,7 +103,7 @@ A letter grade will be assigned as follows:
 60 | &le; | D- | &lt; | 63 
 0  | &le; | F  | &lt; | 60 
 
-I never "curve down." These posted cut points are guaranteed minimums. As well, this course is not graded to a pre-specified distribution (i.e., "curved"); if every student earns a 95 in the course, then every student will receive an A.
+I never "curve down." These posted cut points are guaranteed minimums. As well, this course is not graded to a pre-specified distribution; if every student earns a 95 in the course, then every student will receive an A. I reserve the right to "curve up" using more generous cut points depending on overall difficulty of assessments.
 
 Regrade requests must be made within two days of when a report is returned. These will be honored if points were tallied incorrectly, or if you feel part of your report is correct, but it was marked wrong (these things do happen!). No regrade will be made to alter the number of points deducted for an issue. When a regrade request is evaluated, if new errors are identified, additional points may be deducted from the grade.
 <br> 
@@ -106,12 +117,12 @@ Duke University is committed to providing equal access to students with document
 
 ### Where to find course materials
 
-The course website will have an up-to-date course schedule, policies, and slides. Detailed assignment introductions will be made available on each assignment's GitHub repository in the course organization. Recorded lecture and lab session videos will be made available on Sakai via Zoom, with potential brief pre-lecture content videos on Warpwire prior to certain lectures. However, you are *strongly encouraged* to attend the live session. Announcements will be sent to the class by e-mail, so please check your e-mail regularly.
+The course website will have an up-to-date course schedule, policies, and slides. Detailed assignment introductions will be made available on each assignment's GitHub repository in the course organization. Announcements will be sent to the class by e-mail, so please check your e-mail regularly.
 <br> 
 <br>
 
 ### Late Work Policy
 
-The late policy for assignments is as follows: if work is turned in within 24 hours of the due date/time, then there is no penalty (essentially you have a 24-hour grace period). However, due to the fast-paced nature of this course, no late work will be accepted beyond this grace period. **Do not treat the grace period as a "modified deadline."**
+Late work will not be accepted, but a limited number of zero grades (except on exams and the project) can be dropped using the policies outlined above.
 <br> 
 <br>

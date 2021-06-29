@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "STA 440 | Case Studies in the Practice of Statistics"
+title = "STA 198 / GLHLTH 298 | Introduction to Global Health Data Science"
 theme = "material"
 #disqusShortname = ""
 # googleAnalytics = ""
@@ -23,11 +23,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   archive = "archives"
 
 [author]
-  name = "Yue Jiang"
+  name = "Amy Herring"
   bio = ""
-  job = "Assistant Professor of the Practice"
+  job = "Sara and Charles Ayres Distinguished Professor"
   location = "Duke University"
-  gravatarEmail = "yue.jiang@duke.edu"
+  gravatarEmail = "amy.herring@duke.edu"
   # Your profile picture
   #  picture = ""
   # twitter = ""
