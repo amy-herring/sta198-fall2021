@@ -24,6 +24,16 @@ Teaching Assistant| [Amy Herring](https://scholars.duke.edu/person/Amy.Herring) 
 
 As well, Amy will attend Wednesday lecture sessions and Amy will attend Friday sections. Additional instructor office hours are available by appointment.
 
+### Resources
+
+Given the widespread availability of relevant information on the internet, it is not necessary to purchase a book for the course, though I will suggest useful readings regularly.
+
+- [OpenIntro Statistics](https://www.openintro.org/book/os/) by Diez, Çetinkaya-Rundel, and Barr is an outstanding (free!) resource.
+
+- [Seeing Theory](https://seeing-theory.brown.edu) is an amazing interactive project by Kunin, Guo, Devlin, and Jiang. 
+
+- My favorite biostatistics text is [Principles of Biostatistics](https://www.routledge.com/Principles-of-Biostatistics/Pagano-Gauvreau/p/book/9781138593145?gclid=CjwKCAjwz_WGBhA1EiwAUAxIcVtyaN5gVRe0QtFY32GZu5_VCRSH5nN3xgdoZo5X4VxIDi1WEhF8UxoC1CEQAvD_BwE) by Pagano and Gauvreau. Their exposition is excellent, and they have very nice worked examples throughout. The challenge right now is that the 2nd edition only contains code in Stata, and the 3rd edition (with R code) is not quite out. This book is on reserve at Perkins Library.
+
 ### Topics covered
 
 We will cover a variety of topics in statistical and data science and their application in the following contexts.
