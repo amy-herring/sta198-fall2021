@@ -44,6 +44,7 @@ We will cover a variety of topics in statistical and data science and their appl
 - mercury exposure in the Peruvian Amazon
 - men's health gap
 - COVID-19 testing and treatment
+- other important global health topics (including some chosen by you for course projects)
 
 In addition, each student will participate in a group that will conduct a case study project of their own interest.
 

@@ -57,7 +57,7 @@ No late labs are accepted, but the lowest grade will be dropped automatically.
 
 #### In-Class Exams (50%)
 
-Two midterms (15% each) and a final exam (20%) test understanding, analysis, and interpretation of methods. During exams, students are not permitted to communicate or collaborate with anyone regarding the exam (except the professor). 
+Two midterms (10%, 20%) and a final exam (20%) test understanding, analysis, and interpretation of methods. During exams, students are not permitted to communicate or collaborate with anyone regarding the exam (except the professor). 
 
 Exam dates cannot be changed, and no make-ups will be given. In the case of illness or other extenuating circumstances, contact Prof. Herring as soon as possible to make plans.
 

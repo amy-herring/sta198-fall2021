@@ -2,16 +2,19 @@ lessons:
  - week:    "Week 01"
    date:    "Mon., Aug. 23"
    title:   "Meet the Toolkit"
-   lab:    "../project/individual.html"
+   lab:    "individual.html"
    
    
  - date:    "Wed., Aug. 25"
    title:   "Populations and Samples"
    slides:  "../project/individual.html"
    
+ - title:   "Lab 1 Due"
+   due:     " "
+   
  - date:    "Fri., Aug. 27"
    title:   "Data Visualization"
-   slides:  "../project/individual.html"
+   project:  "individual.html"
  
  - week:    "Week 02"
    date:    "Mon., Aug. 30"
@@ -22,7 +25,7 @@ lessons:
    title:   "Data Visualization"
    slides:  "../project/individual.html"
    
- - title:   "Lab 1 Due"
+ - title:   "Lab 2 Due"
    due:     " "
  
  - date:    "Fri., Sept. 3"
@@ -39,7 +42,7 @@ lessons:
    title:   "Bayes Rule and Diagnostic Testing"
    slides:  "../project/individual.html"
    
- - title:   "Lab 2 Due"
+ - title:   "Lab 3 Due"
    due:     " "
    
  - date:    "Fri., Sept. 10"
@@ -52,18 +55,18 @@ lessons:
    
  - week:    "04"
    date:    "Mon., Sept. 13"
-   title:   "Categorical Data"
+   title:   "Probability; Diagnostic Testing"
    lab:    "../project/individual.html"
 
  - date:    "Wed., Sept. 15"
-   title:   "Data Wrangling"
+   title:   "Discrete Distributions"
    slides:  "../project/individual.html"
    
- - title:   "Lab 3 Due"
+ - title:   "Lab 4 Due"
    due:     " "
 
  - date:    "Fri., Sept. 17"
-   title:   "Spatial Data"
+   title:   "Data Wrangling"
    slides:  "../project/individual.html"
    hw:    "../project/individual.html"
    
@@ -79,10 +82,10 @@ lessons:
    lab:    "../project/individual.html"
 
  - date:    "Wed., Sept. 22"
-   title:   "Case Study"
+   title:   "Spatial Data"
    slides:  "../project/individual.html"
 
- - title:   "Lab 4 Due"
+ - title:   "Lab 5 Due"
    due:     " "
    
  - date:    "Fri., Sept. 24"
@@ -128,7 +131,7 @@ lessons:
    title:   "Correlation and Linear Regression"
    slides:  "../project/individual.html"
 
- - title:   "Lab 5 Due"
+ - title:   "Lab 6 Due"
    due:     " "
 
  - date:    "Friday, Oct. 15"
@@ -149,7 +152,7 @@ lessons:
    slides:  "../project/individual.html"
  
  
- - title:   "Lab 6 Due"
+ - title:   "Lab 7 Due"
    due:     " "
 
  - date:    "Friday, Oct. 22"
@@ -168,7 +171,7 @@ lessons:
    title:   "Binary Classification; k-means"
    slides:  "../project/individual.html"
    
- - title:   "Lab 7 Due"
+ - title:   "Lab 8 Due"
    due:     " "
 
  - date:    "Friday, Oct. 29"
@@ -202,7 +205,7 @@ lessons:
    title:   "Survival Analysis"
    slides:  "../project/individual.html"
  
- - title:   "Lab 8 Due"
+ - title:   "Lab 9 Due"
    due:     " " 
 
  - date:    "Friday, Nov. 12"
@@ -222,7 +225,7 @@ lessons:
    title:   "Ethics in Health Data Science"
    slides:  "../project/individual.html"
    
- - title:   "Lab 9 Due"
+ - title:   "Lab 10 Due"
    due:     " "
 
  - date:     "Friday, Nov. 19"
